@@ -1,9 +1,8 @@
-yfinance
 python-dotenv
 mlflow
 langchain_community
 langchain_openai
 langchain
-langhcain_exa
-duckduckgo_search
-ddgs
+sentence-transformers 
+chromadb 
+pandas
